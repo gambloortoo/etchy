@@ -1,0 +1,43 @@
+/* Etchy Main CSS */
+
+body {
+
+}
+
+#page {
+    text-align: center;
+}
+
+.grid-frame {
+
+}
+
+.grid {
+}
+
+.grid-row {
+
+    text-align: center;
+    background: #c00;
+    height: 40px;
+}
+
+.grid-cell {
+    display: inline-block;
+    background: #ccc;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 40px;
+    height:40px;
+}
+
+.grid-gen {
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    margin-left: 0 auto;
+}
+
+.etched {
+    background: #000;
+}
